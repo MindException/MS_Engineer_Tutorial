@@ -15,7 +15,8 @@
 ![./md_img/01_hyper-v4.png](./md_img/01_hyper-v4.png)
 
 * 가상화 기술은 1세대와 2세대가 존재한다.
-* 2세대 기술 Windows Server 2012부터 지원한다.
+* 2세대 기술은 Windows Server 2012부터 지원한다.
+* 참조: [https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/plan/should-i-create-a-generation-1-or-2-virtual-machine-in-hyper-v](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/plan/should-i-create-a-generation-1-or-2-virtual-machine-in-hyper-v)
 
 ![./md_img/01_hyper-v5.png](./md_img/01_hyper-v5.png)
 
