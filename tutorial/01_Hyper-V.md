@@ -39,3 +39,32 @@
 
 * 마지막으로 OS를 설치하여 준다.
 * ISO 파일을 사용하며, 필자는 Windows Server 2016으로 실습을 진행할 예정이라 2016으로 설치하였다.
+
+# Windows Server 2016 설치
+
+![./md_img/01_hyper-v10.png](./md_img/01_hyper-v10.png)
+
+* 윈도우 서버를 부팅하면 제일 초기 화면이다.
+
+![./md_img/01_hyper-v11.png](./md_img/01_hyper-v11.png)
+
+* 2번 째인 스텐다드인 데스크톱 환경(GUI)환경을 선택한다.
+
+![./md_img/01_hyper-v12.png](./md_img/01_hyper-v12.png)
+
+![./md_img/01_hyper-v13.png](./md_img/01_hyper-v13.png)
+
+* Hyper-v에서 처음부터 설치하기 때문에 __사용자 지정__ 을 선택한다.
+
+![./md_img/01_hyper-v14.png](./md_img/01_hyper-v14.png)
+
+* 위에서 Hyper-v로 가상 컴퓨터를 설치하려 할 때 설정한 디스크 값과 동일하다.
+
+![./md_img/01_hyper-v15.png](./md_img/01_hyper-v15.png)
+
+* 기본 설정은 이것으로 끝으로 Windows Server 설치를 기다린다.
+
+![./md_img/01_hyper-v16.png](./md_img/01_hyper-v16.png)
+
+* 모든 서버는 시작하게 되면 Super User로 __Administrator__ 를 생성하게 된다.
+* 마지막으로 암호를 입력하게 되면 모든 설치는 끝이다.
