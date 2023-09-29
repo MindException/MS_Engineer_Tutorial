@@ -12,7 +12,7 @@
 
 ![./md_img/04_DC2.png](./md_img/04_DC2.png)
 
-* 도메인 서버시스를 설치한다.
+* 도메인 서버스를 설치한다.
 
 ![./md_img/04_DC3.png](./md_img/04_DC3.png)
 
