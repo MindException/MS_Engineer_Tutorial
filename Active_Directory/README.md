@@ -29,3 +29,6 @@ Microsoft Official Course인 20742를 수료하며 배운 내용을 정리한 �
 
 ## 4. Creating and managing groups in AD DS
     * AD Domain Service를 사용하여 그룹을 생성하고 관리한다.
+
+## 5. Creating and configuring user accounts in AD DS
+    * User 생성을 좀 더 쉽게하기 위하여 User Template을 작성한다.
