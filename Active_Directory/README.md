@@ -19,16 +19,19 @@ Microsoft Official Course인 20742를 수료하며 배운 내용을 정리한 �
 # 목차
 
 ## 1. Deploying AD DS
-    * 멤버 서버에 AD Domain Service를 설치 후에 기존 도메인의 DC서버로 승격을 목표로 한다.
+멤버 서버에 AD Domain Service를 설치 후에 기존 도메인의 DC서버로 승격을 목표로 한다.
 
 ## 2. Deploying domain controllers by performing domain controller cloning
-    * Hyper-v VM 추출을 통한 DC 복제
+Hyper-v VM 추출을 통한 DC 복제
 
 ## 3. Administering AD DS
-    * AD 관리 센터를 사용하여서 Object를 쉽게 컨트롤 할 수 있다.
+AD 관리 센터를 사용하여서 Object를 쉽게 컨트롤 할 수 있다.
 
 ## 4. Creating and managing groups in AD DS
-    * AD Domain Service를 사용하여 그룹을 생성하고 관리한다.
+AD Domain Service를 사용하여 그룹을 생성하고 관리한다.
 
-## 5. Creating and configuring user accounts in AD DS
-    * User 생성을 좀 더 쉽게하기 위하여 User Template을 작성한다.
+## 5. Creating and configuring user accounts in AD DS  
+User 생성을 좀 더 쉽게하기 위하여 User Template을 작성한다.
+
+## 6. Managing computer objects in AD DS  
+Computer Object를 리셋한 후, AD DS를 다시 동기화하는 방법
