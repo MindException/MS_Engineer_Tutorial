@@ -35,3 +35,6 @@ User 생성을 좀 더 쉽게하기 위하여 User Template을 작성한다.
 
 ## 6. Managing computer objects in AD DS  
 Computer Object를 리셋한 후, AD DS를 다시 동기화하는 방법
+
+## 7.Delegating administration for OUs
+OU에 대한 권한을 위임한다.
